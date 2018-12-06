@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sun Nov 18 01:38:06 GMT 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0167-2477-be41-00001152d490 
+Thu Nov 29 23:20:18 GMT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0167-61c5-e5ff-00001351aa70 
 on database directory /mnt/c/Users/abc/Documents/research/sparksql-graph/metastore_db with class loader sun.misc.Launcher$AppClassLoader@484b61fc 
 Loaded from file:/home/amogkamsetty/anaconda3/envs/env_full_py3/lib/python3.5/site-packages/pyspark/jars/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
